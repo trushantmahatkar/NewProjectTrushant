@@ -1,0 +1,36 @@
+2023-01-18 11:44:33,938  INFO [main] 0:31 - Browser is Opened
+2023-01-18 11:44:34,074  INFO [main] 0:33 - Browser is Maximized
+2023-01-18 11:44:36,047  INFO [main] 0:36 - URL is Opened
+2023-01-18 11:44:36,686  INFO [main] 0:40 - UserName Entered
+2023-01-18 11:44:46,872  INFO [main] 0:43 - Password Entered
+2023-01-18 11:44:46,983  INFO [main] 0:45 - Login Button Clicked
+2023-01-18 11:44:47,103  INFO [main] 0:19 - came to operator settings
+2023-01-18 11:44:48,489  INFO [main] 0:21 - click operator setting
+2023-01-18 11:44:48,945  INFO [main] 0:23 - click add level button
+2023-01-18 11:44:53,589  INFO [main] 0:27 - send level name
+2023-01-18 11:44:55,791  INFO [main] 0:29 - click checkboxes
+2023-01-18 11:44:59,948  INFO [main] 0:34 - click save
+2023-01-20 12:09:32,816  INFO [main] 0:31 - Browser is Opened
+2023-01-20 12:09:33,028  INFO [main] 0:33 - Browser is Maximized
+2023-01-20 12:09:35,393  INFO [main] 0:36 - URL is Opened
+2023-01-20 12:09:35,984  INFO [main] 0:40 - UserName Entered
+2023-01-20 12:09:46,190  INFO [main] 0:43 - Password Entered
+2023-01-20 12:09:46,363  INFO [main] 0:45 - Login Button Clicked
+2023-01-20 12:16:58,352  INFO [main] 0:31 - Browser is Opened
+2023-01-20 12:16:58,493  INFO [main] 0:33 - Browser is Maximized
+2023-01-20 12:17:00,537  INFO [main] 0:36 - URL is Opened
+2023-01-20 12:17:01,186  INFO [main] 0:40 - UserName Entered
+2023-01-20 12:17:11,338  INFO [main] 0:43 - Password Entered
+2023-01-20 12:17:11,487  INFO [main] 0:45 - Login Button Clicked
+2023-01-23 11:15:35,299  INFO [main] 0:31 - Browser is Opened
+2023-01-23 11:15:35,442  INFO [main] 0:33 - Browser is Maximized
+2023-01-23 11:15:38,153  INFO [main] 0:36 - URL is Opened
+2023-01-23 11:15:38,927  INFO [main] 0:40 - UserName Entered
+2023-01-23 11:15:49,131  INFO [main] 0:43 - Password Entered
+2023-01-23 11:15:49,302  INFO [main] 0:45 - Login Button Clicked
+2023-01-23 11:17:03,088  INFO [main] 0:31 - Browser is Opened
+2023-01-23 11:17:03,230  INFO [main] 0:33 - Browser is Maximized
+2023-01-23 11:17:05,353  INFO [main] 0:36 - URL is Opened
+2023-01-23 11:17:05,970  INFO [main] 0:40 - UserName Entered
+2023-01-23 11:17:16,163  INFO [main] 0:43 - Password Entered
+2023-01-23 11:17:16,341  INFO [main] 0:45 - Login Button Clicked
